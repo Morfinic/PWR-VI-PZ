@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PWR-VI-PZ.Server", "PWR-VI-PZ.Server\PWR-VI-PZ.Server.csproj", "{1AD48644-77E3-4693-A81F-95C00D1EC61F}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "pwr-vi-pz.client", "pwr-vi-pz.client\pwr-vi-pz.client.esproj", "{1C88846D-C2A0-4ABE-B594-BF4EE952EC24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AD48644-77E3-4693-A81F-95C00D1EC61F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AD48644-77E3-4693-A81F-95C00D1EC61F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AD48644-77E3-4693-A81F-95C00D1EC61F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AD48644-77E3-4693-A81F-95C00D1EC61F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C88846D-C2A0-4ABE-B594-BF4EE952EC24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C88846D-C2A0-4ABE-B594-BF4EE952EC24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C88846D-C2A0-4ABE-B594-BF4EE952EC24}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{1C88846D-C2A0-4ABE-B594-BF4EE952EC24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C88846D-C2A0-4ABE-B594-BF4EE952EC24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C88846D-C2A0-4ABE-B594-BF4EE952EC24}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {805F7BB4-B4AE-49E8-A922-F039A2E5ACFC}
+	EndGlobalSection
+EndGlobal
